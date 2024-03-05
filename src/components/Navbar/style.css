@@ -1,0 +1,13 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+#navbarNav {
+  background-color: #93DAD2;
+}
+.navbar-brand {
+  background-color: #ffffff;
+  margin-left: 5px;
+  margin-right: 0%;
+  font-style: bold;
+
+}
